@@ -1,5 +1,10 @@
 # **Using Neural Networks to Diagnose Pneumonia**
 
+
+![layers](https://user-images.githubusercontent.com/78623567/206102428-01f6e5e1-cff2-44af-aa0f-c754d1c510ad.png)
+
+
+
 # **Summary**
 We develop a classification model that uses a training set of chest x-rays to discern features and patterns of features that characterize the presence of pneumonia in hospital patients. The model is developed as part of a suite of deep learning automated diagnostic feature of a new line of state-of-the-art portable X-ray machines. Using the Keras library's extensive convolutional neural network toolset, we train increasingly complex classification models on a known dataset. While striving for the greatest possible accuracy, we are also keen to minimize the number of false negatives our final model outputs. We accomplish this through modifications in model depth, number of filters, regularization techniques, and tuning various hyperparameters in optimization. The resulting model achieved a 94.80% accuracy score
 
