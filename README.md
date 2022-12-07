@@ -18,6 +18,11 @@ While seeking to maximize accuracy, we were also keeping any eye on minimizing f
 # **Results**
 Many of the models displayed signs of overfitting, some worse than others, and many validation and test learning curves were very jittery. Our most successful model--cnn7, ended up with a test accuracy of 95%, and with precision and recall values of 95% and 97% respectively...indicating the model was quite good at distinguishing between positive and negative classes on image data it had yet to see.
 
+
+
+![curves](https://user-images.githubusercontent.com/78623567/206101269-33437e66-1286-4ff4-9e93-7b4226df52ac.png)
+
+
 # **Recommendations**
 The diagnositc algorithm yields reliable enough results that patients with suspected pneumonia could be rapidly screened at intake by just about anyone trained to use the machine. Of course, an experienced radiologist or doctor should always review cases, but automated and rapid screening is both money-cost effective and time-cost effective at busy hospitals, particularly with respiratory illness season in full swing all around us. 
 
