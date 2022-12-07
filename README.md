@@ -27,11 +27,3 @@ The algorithm could also use new patient xrays to further train itself to furthe
 For more information, or for questions and comments, I can easily be reached via email at mcn9284@gmail.com
 Thank you!
 Matthew Noonan
-
-
-# **Repo Structure**
-├── images
-├── .gitignore
-└── project_4_notebook_final.ipynb
-├── README.md
-├── project_4_presentation.pdf
