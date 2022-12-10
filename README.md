@@ -33,6 +33,20 @@ The diagnositc algorithm yields reliable enough results that patients with suspe
 
 The algorithm could also use new patient xrays to further train itself to further bolster its ability to discern the features of pneumonia and provide an accurate diagnosis.
 
+
+# **Repo Structure**
+
+├── Images                                 # Graphics from notebook/presentation
+      ├──better_cm.png                     # updated confusion matrix
+      ├──cm.png                            # confusion matrix
+      ├──layers.png                        # output layers of final model
+      ├──learning_Curves.png               # learning curve plots from final model
+      └──stuff                             # placeholder
+├── Project_4_Notebook_Final               # Project 4 notebook (.ipynb)
+├── Using Neural Networks... .pptx         # Presentation (.pptx)
+├── .gitignore                   
+├── LICENSE
+└── README.md
 # **Contact**
 For more information, or for questions and comments, I can easily be reached via email at mcn9284@gmail.com
 Thank you!
