@@ -33,6 +33,7 @@ Many of the models displayed signs of overfitting, some worse than others, and m
 
 
 ![curves](https://user-images.githubusercontent.com/78623567/206101269-33437e66-1286-4ff4-9e93-7b4226df52ac.png)
+![image](https://user-images.githubusercontent.com/78623567/206922443-5cd8b92f-2aad-439b-82d5-49968552c6f9.png)
 
 
 # **Recommendations**
