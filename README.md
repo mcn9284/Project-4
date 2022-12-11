@@ -35,6 +35,7 @@ Many of the models displayed signs of overfitting, some worse than others, and m
 ![curves](https://user-images.githubusercontent.com/78623567/206101269-33437e66-1286-4ff4-9e93-7b4226df52ac.png)
 ![image](https://user-images.githubusercontent.com/78623567/206922443-5cd8b92f-2aad-439b-82d5-49968552c6f9.png)
 
+The confusion matrix depicts cnn7's predicted class breakdown. At 19, this model minimized the number of false negatives while maintaining decent accuracy.
 
 # **Recommendations**
 The diagnositc algorithm yields reliable enough results that patients with suspected pneumonia could be rapidly screened at intake by just about anyone trained to use the machine. Of course, an experienced radiologist or doctor should always review cases, but automated and rapid screening is both money-cost effective and time-cost effective at busy hospitals, particularly with respiratory illness season in full swing all around us. 
