@@ -53,7 +53,7 @@ The algorithm could also use new patient xrays to further train itself to furthe
       |     └──stuff                             # placeholder   
       ├── .gitignore
       ├── Copy of Copy of Project 4 Notebook Final.ipynb
-      ├── Project_4_Notebook_Final Copy.ipynb    # Project 4 notebook (.ipynb)
+      ├── Project_4_Notebook_Final Copy.pdf      # Project 4 notebook (.pdf)
       ├── README.md                              # readme file
       └── Using Neural Networks... .pptx         # Presentation (.pptx)
 
