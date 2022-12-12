@@ -51,7 +51,8 @@ The algorithm could also use new patient xrays to further train itself to furthe
       |     ├──layers.png                        # output layers of final model
       |     ├──learning_Curves.png               # learning curve plots from final model
       |     └──stuff                             # placeholder   
-      ├── .gitignore        
+      ├── .gitignore
+      ├── Copy of Copy of Project 4 Notebook Final.ipynb
       ├── Project_4_Notebook_Final Copy.ipynb    # Project 4 notebook (.ipynb)
       ├── README.md                              # readme file
       └── Using Neural Networks... .pptx         # Presentation (.pptx)
